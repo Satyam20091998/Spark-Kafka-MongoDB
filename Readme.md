@@ -6,9 +6,6 @@ This project demonstrate how to setup developmen enviornment locally
 This is a repo help you to understand and launch Kafka cluster 
 
 
-### Project Architecture:
-![untitled (1)](https://user-images.githubusercontent.com/115451707/219657272-0b190c35-b148-43d3-a30f-7611705f3a6f.png)
-
 
 ## Steps to setup projects
 
