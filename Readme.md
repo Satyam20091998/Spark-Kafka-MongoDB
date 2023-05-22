@@ -15,3 +15,7 @@
 2.then will load the produced data in mongo db
 
 3. then  using spark will perform operations.
+
+![Screenshot (7)](https://github.com/Satyam20091998/Spark-Kafka-MongoDB/assets/92753984/41ea8c46-3abe-4016-955e-10382e6e59ea)
+
+![Screenshot (6)](https://github.com/Satyam20091998/Spark-Kafka-MongoDB/assets/92753984/4e2fa654-e3d8-4d50-aeba-a10fd03c5812)
